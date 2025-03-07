@@ -15,8 +15,7 @@ In this repository, I have compiled all my Java programs made during our Object 
 │   │   ├── 📂 data_structures # Data structure implementations
 │   │   ├── 📂 utilities       # Helper and utility classes
 │   │   └── 📂 exercises       # Online course practice problems
-├── 📄 README.md               # Project documentation
-└── 📄 LICENSE                 # License information
+└── 📄 README.md               # Project documentation
 ```
 
 ## Java Version Used
