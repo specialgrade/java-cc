@@ -1,4 +1,4 @@
-# Java Code Repository
+# Java Repository
 In this repository, I have compiled all my Java programs made during our Object Oriented Programming Course and the programs I created from online courses.
 
 ## Folder Structure
