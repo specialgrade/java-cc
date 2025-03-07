@@ -2,7 +2,6 @@
 In this repository, I have compiled all my Java programs made during our Object Oriented Programming Course and the programs I created from online courses.
 
 ## Folder Structure
-
 ```
 📂 Java-Code-Repo
 ├── 📂 src                     # Source code files
@@ -21,15 +20,10 @@ In this repository, I have compiled all my Java programs made during our Object 
 ```
 
 ## Java Version Used
-
 This repository is developed using:
 
-- **Java Version:** JDK 18
-- **Compatible Versions:** JDK 23
-- **IDE Used:** NetBeans, VS Code
+- **Java Version:** JDK 18 or JDK 23
 
-## Requirements
-
+## Tech Stack Used
 - Java Development Kit (JDK 18 or JDK 23)
 - IDE (NetBeans, VS Code)
-- Apache Maven (if applicable)
